@@ -261,9 +261,4 @@ The application will open in your browser using the local URL provided by Stream
 
 This project is developed for educational and research purposes only. Its predictions are based on patterns in social media text and should not be considered medical diagnoses or a replacement for professional mental health assessment.
 
-## Team
-
-**Team 5**
-
-Department of Computer Science and Engineering
 
